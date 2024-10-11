@@ -1,2 +1,2 @@
-echo "checking your commit message..."
+echo "🔍 Checking your commit message..."
 npx --no -- commitlint --edit ${1}
